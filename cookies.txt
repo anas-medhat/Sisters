@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.privy.com	TRUE	/	FALSE	1999999999	__cfduid	d1236fb722726ffb0380d4114371b4ec21588089921
+widget.privy.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
